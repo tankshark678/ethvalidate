@@ -8,20 +8,21 @@ This tool is to validate transaction, address and token balance from public ethe
 tx - transactionhash
 <br>
 sample usage<br>
-https://etherscan.github.io/ethvalidate/?tx=0xa2882cca690d1898d7cc13ca9c978c04e83179eb07c0a6aa7f2fba355d50bd52
+https://etherscan.github.io/ethvalidate/?tx=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
 <br><br>
 <b>Address</b> <br>
 a - address
 <br>
   sample usage<br>
-  https://etherscan.github.io/ethvalidate/address?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be
+  https://etherscan.github.io/ethvalidate/address?a=0xa2882cca690d1898d7cc13ca9c978c04e83179eb07c0a6aa7f2fba355d50bd52
+<br><br>
 <br><br>
 <b>Token</b><br>
 a - address
 c - contractaddress
 <br>
    sample usage<br>
-  https://etherscan.github.io/ethvalidate/token?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be&c=0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a
+  https://etherscan.github.io/ethvalidate/token?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be&c=https://etherscan.io/address/0x2239eccb0d91c0c648b36b967bb1ef38c5b2b13d
 <br>
   <b>Network</b><br>
 n - network<br>
